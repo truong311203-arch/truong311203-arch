@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "boss-slayer",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-11T20:54:33.965Z"
+    },
+    {
       "kind": "level",
       "subject": "Level",
       "from": "2",
@@ -96,13 +103,6 @@
       "subject": "yolo",
       "from": "1",
       "to": "2",
-      "at": "2026-10-11T15:55:53.629Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "unbroken",
-      "from": "0",
-      "to": "1",
       "at": "2026-10-11T15:55:53.629Z"
     }
   ],
@@ -205,22 +205,22 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 0
+      "value": 3
     },
     {
       "id": "boss-slayer",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 1
     },
     {
       "id": "escape-artist",
@@ -230,24 +230,35 @@
     {
       "id": "collector",
       "tier": 0,
-      "value": 0
+      "value": 3
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-11",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-10",
         "cleared": 0,
         "total": 3
       }
     ],
-    "perfectDays": 0,
-    "run": 0,
-    "bestRun": 0,
-    "questsDone": 0,
-    "bosses": [],
+    "perfectDays": 1,
+    "run": 1,
+    "bestRun": 1,
+    "questsDone": 3,
+    "bosses": [
+      "2026-10-05"
+    ],
     "escapes": 0,
-    "kinds": []
+    "kinds": [
+      "contribute",
+      "three",
+      "average"
+    ]
   },
-  "syncedAt": "2026-10-11T15:55:53.629Z"
+  "syncedAt": "2026-10-11T20:54:33.965Z"
 }

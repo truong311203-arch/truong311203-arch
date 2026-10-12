@@ -48,7 +48,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-str-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-str-light.svg"><img src="awaken/rune-str-dark.svg" width="24%" alt="STR: rank E"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-agi-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-agi-light.svg"><img src="awaken/rune-agi-dark.svg" width="24%" alt="AGI: rank S"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-int-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-int-light.svg"><img src="awaken/rune-int-dark.svg" width="24%" alt="INT: rank B"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-vit-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-vit-light.svg"><img src="awaken/rune-vit-dark.svg" width="24%" alt="VIT: rank E"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-vit-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-vit-light.svg"><img src="awaken/rune-vit-dark.svg" width="24%" alt="VIT: rank D"></picture>
 </p>
 
 <p align="center">

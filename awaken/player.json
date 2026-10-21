@@ -69,20 +69,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-14T20:35:45.583Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "9",
-      "to": "10",
-      "at": "2026-10-13T21:47:45.926Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "flawless",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-13T21:47:45.926Z"
     }
   ],
   "achievements": [
@@ -194,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 16
+      "value": 18
     },
     {
       "id": "boss-slayer",
@@ -214,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-21",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-20",
         "cleared": 2,
@@ -273,7 +264,7 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 16,
+    "questsDone": 18,
     "bosses": [
       "2026-10-05"
     ],
@@ -286,5 +277,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-20T20:27:58.064Z"
+  "syncedAt": "2026-10-21T20:32:28.021Z"
 }

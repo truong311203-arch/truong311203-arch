@@ -1,8 +1,8 @@
 {
   "login": "truong311203-arch",
-  "level": 10,
+  "level": 8,
   "overall": "C",
-  "overallPercentile": 0.712790474252717,
+  "overallPercentile": 0.698552621285925,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -19,9 +19,9 @@
     },
     {
       "code": "AGI",
-      "value": 59,
+      "value": 36,
       "rank": "S",
-      "percentile": 0.9682730044977732
+      "percentile": 0.9408229662028876
     },
     {
       "code": "INT",
@@ -62,30 +62,23 @@
       "from": "1",
       "to": "2",
       "at": "2026-10-20T20:27:58.064Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-14T20:35:45.583Z"
     }
   ],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 47
+      "value": 30
     },
     {
       "id": "quickdraw",
       "tier": 2,
-      "value": 12
+      "value": 9
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 23
+      "value": 12
     },
     {
       "id": "relentless",
@@ -120,12 +113,12 @@
     {
       "id": "raider",
       "tier": 2,
-      "value": 45
+      "value": 28
     },
     {
       "id": "flawless",
       "tier": 1,
-      "value": 80
+      "value": 83
     },
     {
       "id": "healer",
@@ -200,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-22",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-10-21",
         "cleared": 2,
@@ -277,5 +275,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-21T20:32:28.021Z"
+  "syncedAt": "2026-10-22T20:29:49.781Z"
 }

@@ -48,22 +48,7 @@
       "percentile": 0
     }
   ],
-  "events": [
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "D",
-      "to": "C",
-      "at": "2026-10-20T20:27:58.064Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "polyglot",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-20T20:27:58.064Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -194,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-27",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-26",
         "cleared": 0,
         "total": 3
@@ -295,5 +285,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-26T21:34:46.075Z"
+  "syncedAt": "2026-10-27T21:13:42.620Z"
 }

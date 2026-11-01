@@ -88,7 +88,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 22
+      "value": 25
     },
     {
       "id": "gate-opener",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 26
+      "value": 27
     },
     {
       "id": "boss-slayer",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-01",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-31",
         "cleared": 2,
@@ -292,7 +297,7 @@
     "perfectDays": 4,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 26,
+    "questsDone": 27,
     "bosses": [
       "2026-10-26",
       "2026-10-05"
@@ -307,5 +312,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-31T20:25:56.722Z"
+  "syncedAt": "2026-11-01T21:06:09.671Z"
 }

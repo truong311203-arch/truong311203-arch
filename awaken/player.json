@@ -1,8 +1,8 @@
 {
   "login": "truong311203-arch",
   "level": 8,
-  "overall": "C",
-  "overallPercentile": 0.698552621285925,
+  "overall": "B",
+  "overallPercentile": 0.7782121612074281,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -43,12 +43,27 @@
     },
     {
       "code": "CHA",
-      "value": 0,
-      "rank": "E",
-      "percentile": 0
+      "value": 1,
+      "rank": "C",
+      "percentile": 0.6689367771328458
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "C",
+      "to": "B",
+      "at": "2026-11-04T22:31:56.885Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "CHA",
+      "from": "E",
+      "to": "C",
+      "at": "2026-11-04T22:31:56.885Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -123,7 +138,7 @@
     {
       "id": "beacon",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "guild-hopper",
@@ -178,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-04",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-03",
         "cleared": 0,
@@ -322,5 +342,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-11-03T22:15:37.449Z"
+  "syncedAt": "2026-11-04T22:31:56.885Z"
 }
